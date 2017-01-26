@@ -1,17 +1,15 @@
 {
-	"name": "Atom-ArirangJS",
-	"version": "0.0.0",
-	"description": "Arirang~ Arirang~ Arariyo",
-	"keywords": [
-		"ArirangJS",
-		"Arirang"
-	],
-	"repository": "https://github.com/Devonnuri/Atom-ArirangJS",
-	"license": "GNU General Public License v3.0",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {
-
-	}
+  "name": "Atom-ArirangJS",
+  "version": "0.1.0",
+  "description": "Arirang~ Arirang~ Arariyo",
+  "keywords": [
+    "ArirangJS",
+    "Arirang"
+  ],
+  "repository": "https://github.com/Devonnuri/Atom-ArirangJS",
+  "license": "GNU General Public License v3.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
